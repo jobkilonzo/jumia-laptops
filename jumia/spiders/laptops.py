@@ -1,4 +1,6 @@
 import scrapy
+from scrapy.loader import ItemLoader
+from jumia.items import JumiaItem
 
 class LaptopsSpider(scrapy.Spider):
     name="laptops"
@@ -8,12 +10,12 @@ class LaptopsSpider(scrapy.Spider):
 
     def parse(self, response):
         for laptops in response.xpath("//*[contains(@class, '-gallery')]"):
-            yield{
-                "brand": laptops.xpath(".//span[contains(@class, 'brand')]/text()").extract_first(),
-                "name": laptops.xpath(".//span[@class='name']/text()").extract_first(),
-                "price": laptops.xpath(".//span[@class='price-box ri']/span[contains(@class, 'price')][1]/span[@dir='ltr']/text()").extract_first(),
-                "link": laptops.xpath(".//a[@class='link']/@href").extract_first(),
-            }
+            loader = ItemLoader(item=JumiaItem(), selector=laptops, response=response)
+            loader.add_xpath('brand', ".//span[contains(@class, 'brand')]/text()")
+            loader.add_xpath('name', ".//span[@class='name']/text()")
+            loader.add_xpath('price', ".//span[@class='price-box ri']/span[contains(@class, 'price')][1]/span[@dir='ltr']/text()")
+            loader.add_xpath('link', ".//a[@class='link']/@href")
+            yield loader.load_item()
         next_page = response.xpath("//a[@title='Next']/@href").extract_first()
 
         if next_page is not None:

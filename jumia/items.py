@@ -6,9 +6,23 @@
 # https://doc.scrapy.org/en/latest/topics/items.html
 
 import scrapy
-
+from scrapy.loader.processors import MapCompose, TakeFirst, Join
+from w3lib.html import remove_tags
 
 class JumiaItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+    brand = scrapy.Field(
+        input_processor = MapCompose(remove_tags),
+        output_processor = TakeFirst()
+    )
+    name = scrapy.Field(
+        input_processor = MapCompose(remove_tags),
+        output_processor = TakeFirst()
+    )
+    price = scrapy.Field(
+        input_processor = MapCompose(remove_tags),
+        output_processor = TakeFirst()
+    )
+    link = scrapy.Field(
+        input_processor = MapCompose(remove_tags),
+        output_processor = TakeFirst()
+    )
