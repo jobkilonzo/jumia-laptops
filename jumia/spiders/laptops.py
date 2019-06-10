@@ -14,3 +14,9 @@ class LaptopsSpider(scrapy.Spider):
                 "price": laptops.xpath(".//span[@class='price-box ri']/span[contains(@class, 'price')][1]/span[@dir='ltr']/text()").extract_first(),
                 "link": laptops.xpath(".//a[@class='link']/@href").extract_first(),
             }
+        next_page = response.xpath("//a[@title='Next']/@href").extract_first()
+
+        if next_page is not None:
+            next_page_link = response.urljoin(next_page)
+
+            yield scrapy.Request(url=next_page_link, callback=self.parse)
