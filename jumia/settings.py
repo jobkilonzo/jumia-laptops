@@ -64,8 +64,9 @@ ROBOTSTXT_OBEY = True
 
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
-TEM_PIPELINES = {
+ITEM_PIPELINES = {
     'jumia.pipelines.JumiaLaptopsPipeline': 300,
+    'jumia.pipelines.JumiaMobilePhonesPipeline': 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
