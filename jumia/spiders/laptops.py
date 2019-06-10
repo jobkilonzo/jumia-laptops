@@ -11,5 +11,6 @@ class LaptopsSpider(scrapy.Spider):
             yield{
                 "brand": laptops.xpath(".//span[contains(@class, 'brand')]/text()").extract_first(),
                 "name": laptops.xpath(".//span[@class='name']/text()").extract_first(),
-                "price": laptops.xpath(".//span[@class='price-box ri']/span[contains(@class, 'price')][1]/span[@dir='ltr']/text()").extract_first()
+                "price": laptops.xpath(".//span[@class='price-box ri']/span[contains(@class, 'price')][1]/span[@dir='ltr']/text()").extract_first(),
+                "link": laptops.xpath(".//a[@class='link']/@href").extract_first(),
             }

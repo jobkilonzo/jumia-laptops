@@ -1,49 +1,49 @@
-brand,name,price
-HP ,15-BS151nia- Intel core i3- 4GB RAM  - 500GB HDD- NO OS-15.6'' - Black,"34,499"
-,,
-Lenovo ,"Ideapad 110 15.6"" Intel Celeron 151BR 2 GB RAM 500 GB HDD No OS Installed- Black","20,999"
-HP ,"15- Intel Celeron -4GB  500GB  -15.6""- DOS Installed - Black","25,999"
-Lenovo ,Ideapad 330-15.6-Intel Celeron-500GB HDD-4GB RAM- DOS- Platinum Grey,"24,499"
-Dell ,Inspiron 3573 Intel Celeron 15.6'' 4GB RAM 500GB HDD - Black,"26,899"
-Lenovo ,"Ideapad 120s-11.6""-Intel Celeron-4GB RAM-500GB HDD-DOS-Grey","22,999"
-,,
-HP ,"INSPIRED Refurbished FOLIO 9470M Core i5 1.9 Ghz 4GB RAM 500GB HDD 15.6"" Black & Gold","32,999"
-HP ,"250 G6 - 15.6"" - Intel Core i3 - 1TB HDD - 4GB RAM - No OS - Black+FREE BAG","36,999"
-HP ,15  - Intel Core i5 8th Generation - 1TB HDD - 4GB RAM,"44,000"
-HP ,"Inspired Refurbished  FOLIO 9470M Core i7 4GB RAM 500GB HDD 15.6"" Black & Gold.","35,999"
-Dell ,"Refurbished Latitude 2100 - 10.1"" - Intel Atom N270 (1.60 GHz) - 160GB HDD - 2GB RAM - Windows 7 - Blue and Black","10,999"
-,,
-Dell ,"Inspired Refurbished Lattitude E 7240 14"" Intel Core i5 1.7Ghz 128GB SSD 4GB RAM No OS  Black & Gold","33,700"
-HP ,"Probook 450 G5  15.6""  Intel Core i7 8th gen-1TB HDD - 8GB RAM - 2GB Nvidia Graphics - DOS - Silver","81,990"
-ASUS ,"X441M-14""- N4000-500GB HDD-4GB RAM-DOS-Silver Gradient","24,899"
-Dell ,"Inspiron 3552 Intel Celeron N3060 4GB RAM, 500GB HDD - Black","26,899"
-Dell ,"INSPIRED Refurbished E5440 CORE i5 2.0 Ghz 4GB RAM 500GB HDD 15.6"" BLACK & GOLD.","32,999"
-,,
-ASUS ,"X540L - 15.6"" - Intel Core i3 - 1TB HDD - 4GB RAM - No OS - Black.","32,999"
-Lenovo ,"Ideapad 130, 15.6"" Intel Core i3 4GB RAM, 1TB HDD. Free DOS - Black","34,999"
-Lenovo ,"Ideapad 100 - 15.6"" - Intel Celeron - 2 GB RAM 500 GB HDD- No OS Installed- Black","20,999"
-Lenovo ,"IDEAPAD 330S-141KB Core I5 8GB RAM 1TB HDD 14"" Win10 GREY","56,999"
-HP ,INSPIRED refurbished 820 Core i5 4GB RAM-500 GB HDD- Silver,"33,700"
-,,
-ASUS ,Asus X540M-15.6'' Celeron 4GB Ram 500HDD Free Dos -Black/Silver,"25,399"
-HP ,"15-ra008nia - 15.6"" - Intel Celeron - 4GB RAM - 500GB HDD - DOS - Black","25,999"
-HP ,"INSPIRED Refurbished FOLIO 9470M Core i5 1.8 Ghz 4GB RAM 500GB HDD 15.6"" Black & Gold","32,999"
-Lenovo ,"Ideapad 330 15IGM 15.6"" Intel Celeron 500GB HDD 4GB RAM DOS Platinum Grey","24,398"
- ,"LIFEBOOK T734, intel Corei5,  4GB + 500GB, WIN10TRIAL","17,999"
-,,
-CTRONIQ ,"Ctroniq N14B - 14.1"" HD Screen - Microsoft certified Windows 10 laptop - 32GB + 2GB - Black","16,999"
-Apple ,"MacBook Pro with Retina display 15.4"" Intel Core i7  - 16GB RAM  - 256GB Flash Storage - Silver","265,000"
-HP ,"Refurbished Elitebook Folio 9480m 14""IntelCore i7 8GB RAM 500GB HDD","36,000"
-Lenovo ,"Ideapad 130-15IKB-15.6""-Intel Core i3-1TB HDD-4GB RAM-FreeDOS-Black","34,898"
-HP ,Refurbished Probook 6470b 14 Intel Core i5 4GB RAM - 500GB HDD - Dove Grey,"19,999"
-,,
-Apple ,"MacBook Pro 13"" Retina, Touch Bar, 2.3GHz Quad-Core Intel Core i5, 8GB RAM, 512 GB SSD Space Gray","240,000"
-HP ,"Refurbrished Hp Probook 6470  - 14"" - Intel Core i5 - 4GB RAM -  500GB HDD - Grey","23,000"
-HP ,15 Laptop – 15.6” - 8th Gen Intel Core i7 – 1TB HDD – 8GB RAM – 2GB GRAPHICS -Free Dos – Silver,"77,000"
-HP ,"Refurbrished  HP Elitebook 820 -Corei5-4GBRAM-500GB-  12.5"" slim - Black","24,999"
-HP ,"EliteBook 1040 G4 - 14"" -Intel  Core i7  - 8 GB RAM - 256 GB SSD – Win 10 pro - Silver","194,700"
-,,
-Lenovo ,"Ideapad 330-15IGM - 15.6"" - Intel Celeron - 500GB HDD - 4GB RAM -  Free DOS - Grey","24,498"
-Lenovo ,Ideapad 330-15.6-Intel Celeron-500GB HDD-4GB RAM- DOS- Black+FreeBackpack,"26,799"
-Apple ,"MacBook Pro 13"" Retina, Touch Bar, 2.3GHz Quad-Core Intel Core i5, 8GB RAM, 256 GB SSD Space Gray","199,990"
-HP ,"Probook-  440 G5 -14"" - Intel Core i7 8th gen  1TB HDD - 8GB RAM - 2GB Nvidia Graphics - Dos Free- Silver","91,000"
+brand,name,price,link
+HP ,15-BS151nia- Intel core i3- 4GB RAM  - 500GB HDD- NO OS-15.6'' - Black,"34,499",https://www.jumia.co.ke/hp-15-bs151nia-intel-core-i3-4gb-ram-500gb-hdd-no-os-15.6-black-5476775.html
+,,,
+Lenovo ,"Ideapad 110 15.6"" Intel Celeron 151BR 2 GB RAM 500 GB HDD No OS Installed- Black","20,999",https://www.jumia.co.ke/lenovo-ideapad-110-15.6-intel-celeron-151br-2-gb-ram-500-gb-hdd-no-os-installed-black-17537928.html
+HP ,"15- Intel Celeron -4GB  500GB  -15.6""- DOS Installed - Black","25,999",https://www.jumia.co.ke/hp-15-intel-celeron-4gb-500gb-15.6-dos-installed-black-14294783.html
+Lenovo ,Ideapad 330-15.6-Intel Celeron-500GB HDD-4GB RAM- DOS- Platinum Grey,"24,499",https://www.jumia.co.ke/lenovo-ideapad-330-15.6-intel-celeron-500gb-hdd-4gb-ram-dos-platinum-grey-14787996.html
+Dell ,Inspiron 3573 Intel Celeron 15.6'' 4GB RAM 500GB HDD - Black,"26,899",https://www.jumia.co.ke/dell-inspiron-3573-intel-celeron-15.6-4gb-ram-500gb-hdd-black-17290957.html
+Lenovo ,"Ideapad 120s-11.6""-Intel Celeron-4GB RAM-500GB HDD-DOS-Grey","22,999",https://www.jumia.co.ke/ideapad-120s-11.6-intel-celeron-4gb-ram-500gb-hdd-dos-grey-lenovo-mpg129518.html
+,,,
+HP ,"INSPIRED Refurbished FOLIO 9470M Core i5 1.9 Ghz 4GB RAM 500GB HDD 15.6"" Black & Gold","32,999",https://www.jumia.co.ke/hp-inspired-refurbished-folio-9470m-core-i5-1.9-ghz-4gb-ram-500gb-hdd-15.6-black-gold-17453156.html
+HP ,"250 G6 - 15.6"" - Intel Core i3 - 1TB HDD - 4GB RAM - No OS - Black+FREE BAG","36,999",https://www.jumia.co.ke/250-g6-15.6-intel-core-i3-1tb-hdd-4gb-ram-no-os-blackfree-bag-hp-mpg162258.html
+HP ,15  - Intel Core i5 8th Generation - 1TB HDD - 4GB RAM,"44,000",https://www.jumia.co.ke/hp-15-intel-core-i5-8th-generation-1tb-hdd-4gb-ram-17175492.html
+HP ,"Inspired Refurbished  FOLIO 9470M Core i7 4GB RAM 500GB HDD 15.6"" Black & Gold.","35,999",https://www.jumia.co.ke/hp-inspired-refurbished-folio-9470m-core-i7-4gb-ram-500gb-hdd-15.6-black-gold.-17385928.html
+Dell ,"Refurbished Latitude 2100 - 10.1"" - Intel Atom N270 (1.60 GHz) - 160GB HDD - 2GB RAM - Windows 7 - Blue and Black","10,999",https://www.jumia.co.ke/dell-refurbished-latitude-2100-10.1-intel-atom-n270-1.60-ghz-160gb-hdd-2gb-ram-windows-7-blue-and-black-18509441.html
+,,,
+Dell ,"Inspired Refurbished Lattitude E 7240 14"" Intel Core i5 1.7Ghz 128GB SSD 4GB RAM No OS  Black & Gold","33,700",https://www.jumia.co.ke/dell-inspired-refurbished-lattitude-e-7240-14-intel-core-i5-1.7ghz-128gb-ssd-4gb-ram-no-os-black-gold-17448521.html
+HP ,"Probook 450 G5  15.6""  Intel Core i7 8th gen-1TB HDD - 8GB RAM - 2GB Nvidia Graphics - DOS - Silver","81,990",https://www.jumia.co.ke/probook-450-g5-15.6-intel-core-i7-8th-gen-1tb-hdd-8gb-ram-2gb-nvidia-graphics-dos-silver-hp-mpg147037.html
+ASUS ,"X441M-14""- N4000-500GB HDD-4GB RAM-DOS-Silver Gradient","24,899",https://www.jumia.co.ke/x441m-14-intel-celeron-n4000-500gb-hdd-4gb-ram-dos-silver-gradient-asus-mpg134187.html
+Dell ,"Inspiron 3552 Intel Celeron N3060 4GB RAM, 500GB HDD - Black","26,899",https://www.jumia.co.ke/inspiron-3552-intel-celeron-n3060-4gb-ram-500gb-hdd-black-dell-mpg138277.html
+Dell ,"INSPIRED Refurbished E5440 CORE i5 2.0 Ghz 4GB RAM 500GB HDD 15.6"" BLACK & GOLD.","32,999",https://www.jumia.co.ke/dell-inspired-refurbished-e5440-core-i5-2.0-ghz-4gb-ram-500gb-hdd-15.6-black-gold.-17451635.html
+,,,
+ASUS ,"X540L - 15.6"" - Intel Core i3 - 1TB HDD - 4GB RAM - No OS - Black.","32,999",https://www.jumia.co.ke/x540l-15.6-intel-core-i3-1tb-hdd-4gb-ram-no-os-black.-asus-mpg162671.html
+Lenovo ,"Ideapad 130, 15.6"" Intel Core i3 4GB RAM, 1TB HDD. Free DOS - Black","34,999",https://www.jumia.co.ke/ideapad-130-15.6-intel-core-i3-4gb-ram-1tb-hdd-2gb-nvidia-graphics.-free-dos-black-lenovo-mpg134421.html
+Lenovo ,"Ideapad 100 - 15.6"" - Intel Celeron - 2 GB RAM 500 GB HDD- No OS Installed- Black","20,999",https://www.jumia.co.ke/ideapad-100-15.6-intel-celeron-2-gb-ram-500-gb-ram-no-os-installed-black-lenovo-mpg140549.html
+Lenovo ,"IDEAPAD 330S-141KB Core I5 8GB RAM 1TB HDD 14"" Win10 GREY","56,999",https://www.jumia.co.ke/lenovo-ideapad-330s-141kb-core-i5-8gb-ram-1tb-hdd-14-win10-grey-17583151.html
+HP ,INSPIRED refurbished 820 Core i5 4GB RAM-500 GB HDD- Silver,"33,700",https://www.jumia.co.ke/hp-inspired-refurbished-820-core-i5-4gb-ram-500-gb-hdd-silver-17538596.html
+,,,
+ASUS ,Asus X540M-15.6'' Celeron 4GB Ram 500HDD Free Dos -Black/Silver,"25,399",https://www.jumia.co.ke/asus-x540m-15.6-celeron-4gb-ram-500hdd-free-dos-blacksilver-asus-mpg137149.html
+HP ,"15-ra008nia - 15.6"" - Intel Celeron - 4GB RAM - 500GB HDD - DOS - Black","25,999",https://www.jumia.co.ke/15-ra008nia-15.6-intel-celeron-4gb-ram-500gb-hdd-dos-black-hp-mpg126264.html
+HP ,"INSPIRED Refurbished FOLIO 9470M Core i5 1.8 Ghz 4GB RAM 500GB HDD 15.6"" Black & Gold","32,999",https://www.jumia.co.ke/hp-inspired-refurbished-folio-9470m-core-i5-1.8-ghz-4gb-ram-500gb-hdd-15.6-black-gold-17453154.html
+Lenovo ,"Ideapad 330 15IGM 15.6"" Intel Celeron 500GB HDD 4GB RAM DOS Platinum Grey","24,398",https://www.jumia.co.ke/lenovo-ideapad-330-15igm-15.6-intel-celeron-500gb-hdd-4gb-ram-dos-platinum-grey-14438290.html
+ ,"LIFEBOOK T734, intel Corei5,  4GB + 500GB, WIN10TRIAL","17,999",https://www.jumia.co.ke/fujitsu-lifebook-t734-intel-corei5-4gb-500gb-win10trial-15938637.html
+,,,
+CTRONIQ ,"Ctroniq N14B - 14.1"" HD Screen - Microsoft certified Windows 10 laptop - 32GB + 2GB - Black","16,999",https://www.jumia.co.ke/ctroniq-ctroniq-n14b-14.1-hd-screen-microsoft-certified-windows-10-laptop-32gb-2gb-black-13545277.html
+Apple ,"MacBook Pro with Retina display 15.4"" Intel Core i7  - 16GB RAM  - 256GB Flash Storage - Silver","265,000",https://www.jumia.co.ke/apple-macbook-pro-with-retina-display-15.4-intel-core-i7-16gb-ram-256gb-flash-storage-silver-1055639.html
+HP ,"Refurbished Elitebook Folio 9480m 14""IntelCore i7 8GB RAM 500GB HDD","36,000",https://www.jumia.co.ke/hp-refurbished-elitebook-folio-9480m-14intelcore-i7-8gb-ram-500gb-hdd-16205689.html
+Lenovo ,"Ideapad 130-15IKB-15.6""-Intel Core i3-1TB HDD-4GB RAM-FreeDOS-Black","34,898",https://www.jumia.co.ke/ideapad-130-15ikb-15.6-intel-core-i3-1tb-hdd-4gb-ram-freedos-black-lenovo-mpg164882.html
+HP ,Refurbished Probook 6470b 14 Intel Core i5 4GB RAM - 500GB HDD - Dove Grey,"19,999",https://www.jumia.co.ke/hp-refurbished-probook-6470b-14-intel-core-i5-4gb-ram-500gb-hdd-dove-grey-16905570.html
+,,,
+Apple ,"MacBook Pro 13"" Retina, Touch Bar, 2.3GHz Quad-Core Intel Core i5, 8GB RAM, 512 GB SSD Space Gray","240,000",https://www.jumia.co.ke/apple-macbook-pro-13-retina-touch-bar-2.3ghz-quad-core-intel-core-i5-8gb-ram-512-gb-ssd-space-gray-14781947.html
+HP ,"Refurbrished Hp Probook 6470  - 14"" - Intel Core i5 - 4GB RAM -  500GB HDD - Grey","23,000",https://www.jumia.co.ke/hp-refurbrished-hp-probook-6470-14-intel-core-i5-4gb-ram-500gb-hdd-grey-16874393.html
+HP ,15 Laptop – 15.6” - 8th Gen Intel Core i7 – 1TB HDD – 8GB RAM – 2GB GRAPHICS -Free Dos – Silver,"77,000",https://www.jumia.co.ke/hp-15-laptop-15.6-8th-gen-intel-core-i7-1tb-hdd-8gb-ram-2gb-graphics-free-dos-silver-13489318.html
+HP ,"Refurbrished  HP Elitebook 820 -Corei5-4GBRAM-500GB-  12.5"" slim - Black","24,999",https://www.jumia.co.ke/hp-refurbrished-hp-elitebook-820-corei5-4gbram-500gb-12.5-slim-black-15881301.html
+HP ,"EliteBook 1040 G4 - 14"" -Intel  Core i7  - 8 GB RAM - 256 GB SSD – Win 10 pro - Silver","194,700",https://www.jumia.co.ke/elitebook-1040-g4-14-intel-core-i7-8-gb-ram-256-gb-ssd-win-10-pro-silver-hp-mpg148927.html
+,,,
+Lenovo ,"Ideapad 330-15IGM - 15.6"" - Intel Celeron - 500GB HDD - 4GB RAM -  Free DOS - Grey","24,498",https://www.jumia.co.ke/ideapad-330-15igm-15.6-intel-celeron-500gb-hdd-4gb-ram-free-dos-grey-lenovo-mpg147585.html
+Lenovo ,Ideapad 330-15.6-Intel Celeron-500GB HDD-4GB RAM- DOS- Black+FreeBackpack,"26,799",https://www.jumia.co.ke/ideapad-330-15.6-intel-celeron-500gb-hdd-4gb-ram-dos-blackfreebackpack-lenovo-mpg133269.html
+Apple ,"MacBook Pro 13"" Retina, Touch Bar, 2.3GHz Quad-Core Intel Core i5, 8GB RAM, 256 GB SSD Space Gray","199,990",https://www.jumia.co.ke/apple-macbook-pro-13-retina-touch-bar-2.3ghz-quad-core-intel-core-i5-8gb-ram-256-gb-ssd-space-gray-14781948.html
+HP ,"Probook-  440 G5 -14"" - Intel Core i7 8th gen  1TB HDD - 8GB RAM - 2GB Nvidia Graphics - Dos Free- Silver","91,000",https://www.jumia.co.ke/hp-probook-440-g5-14-intel-core-i7-8th-gen-1tb-hdd-8gb-ram-2gb-nvidia-graphics-dos-free-silver-16369363.html
