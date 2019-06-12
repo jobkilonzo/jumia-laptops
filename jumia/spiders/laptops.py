@@ -9,13 +9,16 @@ class LaptopsSpider(scrapy.Spider):
     ]
 
     def parse(self, response):
-        for laptops in response.xpath("//*[contains(@class, '-gallery')]"):
-            loader = ItemLoader(item=JumiaItem(), selector=laptops, response=response)
-            loader.add_xpath('brand', ".//span[contains(@class, 'brand')]/text()")
-            loader.add_xpath('name', ".//span[@class='name']/text()")
-            loader.add_xpath('price', ".//span[@class='price-box ri']/span[contains(@class, 'price')][1]/span[@dir='ltr']/text()")
-            loader.add_xpath('link', ".//a[@class='link']/@href")
-            yield loader.load_item()
+        for laptops in response.xpath("//div[contains(@class, '-gallery')]"):
+            if laptops.xpath(".//span[contains(@class, 'brand')]/text()").extract_first() is None:
+                continue
+            else:
+                loader = ItemLoader(item=JumiaItem(), selector=laptops, response=response)
+                loader.add_xpath('brand', ".//span[contains(@class, 'brand')]/text()")
+                loader.add_xpath('name', ".//span[@class='name']/text()")
+                loader.add_xpath('price', ".//span[@class='price-box ri']/span[contains(@class, 'price')][1]/span[@dir='ltr']/text()")
+                loader.add_xpath('link', ".//a[@class='link']/@href")
+                yield loader.load_item()
         next_page = response.xpath("//a[@title='Next']/@href").extract_first()
 
         if next_page is not None:
